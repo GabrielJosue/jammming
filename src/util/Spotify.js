@@ -3,7 +3,7 @@
 //client id
 const clientId = '70efebe7c1224fe89f8226095f3924bd';
 //uri
-const redirectUri = 'http://localhost:3000'
+const redirectUri = 'http://localhost:300'
 
 
 //access token
