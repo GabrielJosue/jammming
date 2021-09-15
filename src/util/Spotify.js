@@ -3,7 +3,7 @@
 //client id
 const clientId = '70efebe7c1224fe89f8226095f3924bd';
 //uri
-const redirectUri = 'http://localhost:300'
+const redirectUri = 'https://competent-lichterman-b96126.netlify.app/'
 
 
 //access token
