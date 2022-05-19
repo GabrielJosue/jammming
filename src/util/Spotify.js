@@ -3,7 +3,8 @@
 //client id
 const clientId = '70efebe7c1224fe89f8226095f3924bd';
 //uri
-const redirectUri = 'https://competent-lichterman-b96126.netlify.app/'
+// https://competent-lichterman-b96126.netlify.app/
+const redirectUri = 'https://jammming-vert.vercel.app/';
 
 
 //access token
